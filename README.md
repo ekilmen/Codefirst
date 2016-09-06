@@ -12,7 +12,7 @@
 <td>Hazırlanıyor</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Ders 2</td>
 <td>Codefirst ile tablolar arası ilişki (relations) nasıl oluşturulur?</td>
 <td>Hazırlanıyor</td>
