@@ -11,4 +11,10 @@
 <td>Codefirst ile standart bir database nasıl oluşturulur?</td>
 <td>Hazırlanıyor</td>
 </tr>
+<tr>
+<td>1</td>
+<td>Ders 2</td>
+<td>Codefirst ile tablolar arası ilişki (relations) nasıl oluşturulur?</td>
+<td>Hazırlanıyor</td>
+</tr>
 </table>
